@@ -22,6 +22,10 @@ a:link {
 	text-decoration: none; 
 }
 
+a:visited {
+	color:#E1F0FF;
+	text-decoration: none; 
+}
 
 .header {
 	display: inline;
